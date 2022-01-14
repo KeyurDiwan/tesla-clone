@@ -11,6 +11,9 @@ body{
   overflow-x: hidden;
 }
 
+a {
+  text-decoration: none;
+}
 @keyframes animateDown {
   0%, 20%, 80%, 100% {
     transform: translateY(0);
